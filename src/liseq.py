@@ -31,4 +31,7 @@ def liseq(x: Sequence[Any]) -> list[int]:
     """
     best: list[int] = []
     # Explore all alternatives
+    # look at all subsets. 2**n.
+
+
     return best
